@@ -11,9 +11,6 @@ allows obtaining data for more countries than using country names, and the purpo
 of build_country_code_converter() and reconcile_countries_by_code() functions is
 actually to map the country codes used by the plotting library to those used in the
 GDP data file.
-
-I provide the GDP data file and the file mapping different variants of country
-codes, with which I was working, in the same repository.
 """
 
 import csv
