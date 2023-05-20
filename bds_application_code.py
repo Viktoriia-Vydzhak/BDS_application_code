@@ -1,8 +1,9 @@
 """
 This code is based on the final project for the "Python Data Visualization"
 course on Coursera. I was working from a template which included signatures
-for the functions (which made machine grading possible), but no bodies of
-functions. So the body of each function here was written by me.
+for the functions (which made machine grading possible; signatures included 
+names, arguments and docstrings), but no bodies of functions. So the body of 
+each function here was written by me.
 
 The purpose of this code is to plot GDP data for a given year on the world map.
 Here, country codes are used to extract data for each country from the file with
